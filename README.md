@@ -13,3 +13,8 @@ Link: https://www.digitalocean.com/community/tutorials/how-to-install-postgresql
 
 #Initialize Git
 git init
+git add.
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/kundigagandeep/sentiment_analysis.git
+git push -u origin main
